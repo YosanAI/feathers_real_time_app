@@ -1,0 +1,23 @@
+{
+  "name": "feathers_real_time_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YosanAI/feathers_real_time_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YosanAI/feathers_real_time_app/issues"
+  },
+  "homepage": "https://github.com/YosanAI/feathers_real_time_app#readme",
+  "dependencies": {
+    "@feathersjs/feathers": "^4.5.12"
+  }
+}
