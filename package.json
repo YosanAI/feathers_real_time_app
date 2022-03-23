@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/YosanAI/feathers_real_time_app#readme",
   "dependencies": {
-    "@feathersjs/feathers": "^4.5.12"
+    "@feathersjs/express": "^4.5.12",
+    "@feathersjs/feathers": "^4.5.12",
+    "@feathersjs/socketio": "^4.5.13"
   }
 }
